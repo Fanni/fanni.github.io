@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog Site</title>
+    <title>Blog Saya</title>
     <link>http://fanni.github.io/</link>
-    <description>Recent content on My Blog Site</description>
+    <description>Recent content on Blog Saya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/fanni&#34;&gt;Fanni Ikhwan&lt;/a&gt; 2020</copyright>
@@ -14,7 +14,7 @@
       <pubDate>Thu, 24 Dec 2020 17:24:45 +0700</pubDate>
       
       <guid>http://fanni.github.io/posts/first-post/</guid>
-      <description>If I remember correctly, my last blog posting was 4 years ago in my personal blog that&amp;rsquo;s already dead (sayafanni.web.id). Since then I just writing and documenting what I&amp;rsquo;ve done in a notes with a mess structure of writing or sometimes only a bunch of keywords that I forgot what it&amp;rsquo;s all about in the next day.
+      <description>If I remember correctly, my last blog posting was 4 years ago in my personal blog that&amp;rsquo;s already dead (sayafanni.web.id). Since then I&amp;rsquo;m just writing and documenting what I&amp;rsquo;ve done in a notes with a mess structure of writing or sometimes only a bunch of keywords that I forgot what it&amp;rsquo;s all about in the next day.
 So, because of those reasons, I will going back to write my experiences in a proper writing format and also publish it, just in case if there are people who are facing the same problem like I did.</description>
     </item>
     
