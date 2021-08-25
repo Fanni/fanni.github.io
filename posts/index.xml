@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/fanni&#34;&gt;Fanni Ikhwan&lt;/a&gt; 2020</copyright>
-    <lastBuildDate>Thu, 24 Dec 2020 17:24:45 +0700</lastBuildDate><atom:link href="http://fanni.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 06:08:15 +0700</lastBuildDate><atom:link href="http://fanni.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Blog</title>
+      <link>http://fanni.github.io/posts/this-blog/</link>
+      <pubDate>Thu, 26 Aug 2021 06:08:15 +0700</pubDate>
+      
+      <guid>http://fanni.github.io/posts/this-blog/</guid>
+      <description>I generated this blog using Hugo, &amp;ldquo;a static site generator written in GO&amp;rdquo; as written in Hugo&amp;rsquo;s website. There is no other reason to use Hugo, but to fulfill my curiosity about using Hugo.
+Before I&amp;rsquo;m using the Github page to host my blog, I already tried to use web hosting to host my blog. My first blog was a WordPress blog (sayafanni.wordpress.com) then I rented a hosting+domain and hosted my blog there with the same name but with a web.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>http://fanni.github.io/posts/first-post/</link>
