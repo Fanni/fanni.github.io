@@ -1,3 +1,1 @@
 User-agent: *
-
-Sitemap: http://fanni.github.io//sitemap.xml
